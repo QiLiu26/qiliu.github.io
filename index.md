@@ -1,8 +1,16 @@
----
-layout: single
-title: "Qi Liu"
-author_profile: true
----
+ <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Minimal by Steve Smith</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
 
 <!-- optional banner image -->
 <img src="/images/qiliu.png" alt="banner" style="width:100%; height:auto;">
@@ -74,3 +82,4 @@ I am a PhD Candidate at Harvard University. My research focuses on ...
     </details>
   </li>
 </ul>
+  <body>
