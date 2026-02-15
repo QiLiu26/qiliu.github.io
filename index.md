@@ -23,12 +23,10 @@ title: "Qi Liu"
               </details>
                            
               </ol>
-          <div></div>
-
- </ul>
-
+          </section>
+ </div>
            
-      <div align="left">
+        <div align="left">
         <h3 id="pubs">Working Papers</h3>
       </div>
       <div align="left">
@@ -50,9 +48,7 @@ title: "Qi Liu"
              </details>
          
           </ol>
-        <div></div>
-
- </ul>
+       
 
    <div align="left">
         <h3 id="pubs">Work in Progress</h3>
