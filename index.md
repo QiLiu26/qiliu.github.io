@@ -14,7 +14,7 @@ title: "Qi Liu"
     
 
    <div align="left">
-     <h3 id="wp">Dissertation Research</h3>
+     <h3 id="dis">Dissertation Research</h3>
    </div>
        <div align="left">
       <li><a href="https://...">The Scope Expansion of International Organizations </a>. Working Paper</li>
@@ -25,11 +25,12 @@ title: "Qi Liu"
             
 </ol>
            
-        <div align="left">
-        <h3 id="pubs">Working Papers</h3>
-      </div>
-      <div align="left">
-                <li> <a href="https://...">Moral Hazard in the Global Financial Safety Net: Evidence from Bilateral Swap Agreements</a> (with Xun Pang). <b><i>Revise and Resubmit, International Studies Quarterly</b></i>. 
+     
+   <div align="left">
+     <h3 id="dis">Working Paper</h3>
+   </div>
+       <div align="left">
+       <li> <a href="https://...">Moral Hazard in the Global Financial Safety Net: Evidence from Bilateral Swap Agreements</a> (with Xun Pang). <b><i>Revise and Resubmit, International Studies Quarterly</b></i>. 
                 <details><summary>Abstract</summary>
                 ...
                 </details>
@@ -45,12 +46,14 @@ title: "Qi Liu"
             <details><summary>Abstract</summary>
                   ...
              </details>
-         
-          </ol>
-       
 
+                           
+            
+</ol>
+           
+ 
    <div align="left">
-        <h3 id="pubs">Work in Progress</h3>
+        <h3 id="wip">Work in Progress</h3>
       </div>
       <div align="left">
                 <li> <a href="https://...">Dynamic Bipartite Mixed Membership Stochastic Blockmodel Regression</a> (with Kosuke Imai, Santiago Olivella, and Ruofan Ma). 
