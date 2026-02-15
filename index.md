@@ -22,9 +22,8 @@ title: "Qi Liu"
                ...
               </details>
                            
-              </ol>
-          </section>
- </div>
+            
+</ol>
            
         <div align="left">
         <h3 id="pubs">Working Papers</h3>
