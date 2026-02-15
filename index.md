@@ -19,7 +19,7 @@ title: "Qi Liu"
        <div align="left">
       <li><a href="https://...">The Scope Expansion of International Organizations </a>. Working Paper</li>
               <details><summary>Abstract</summary>
-                <p> ... .</p>
+               ...
               </details>
                            
               </ol>
