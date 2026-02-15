@@ -16,7 +16,7 @@ title: "Qi Liu"
    <div align="left">
      <h3 id="wp">Dissertation Research</h3>
    </div>
-      <ol>
+       <div align="left">
       <li><a href="https://...">The Scope Expansion of International Organizations </a>. Working Paper</li>
               <details><summary>Abstract</summary>
                 <p> ... .</p>
