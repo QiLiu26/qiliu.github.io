@@ -8,9 +8,11 @@ baseurl: ""
 theme: jekyll-theme-minimal
 
 plugins:
-  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
   - jekyll-include-cache
-
 author:
   name   : "Qi Liu"
   avatar : "/images/qiliu_headshot.jpg"
