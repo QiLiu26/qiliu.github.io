@@ -5,7 +5,7 @@ description: "PhD Candidate, Harvard University"
 url: "https://qiliu.github.io"
 baseurl: ""
 
-remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-remote-theme
