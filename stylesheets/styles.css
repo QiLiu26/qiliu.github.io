@@ -268,3 +268,12 @@ footer {
     color:#444;
   }
 }
+
+.profile-photo {
+  display: block;
+  margin-top: 15px;
+  width: 160px;        /* adjust size */
+  height: auto;
+  border-radius: 6px;  /* use 50% for circle */
+  border: 1px solid #e5e5e5;
+}
