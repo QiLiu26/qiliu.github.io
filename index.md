@@ -1,15 +1,15 @@
- <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Minimal by Steve Smith</title>
+---
+layout: bio-sidebar
+title: "Qi Liu"
+---
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <meta name="viewport" content="width=device-width">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
+<div class="wrapper">
+  <section>
+    {% include_cached masthead.html %}
+    <div align="left">
+      <img src="images/kuriwaki_swing-split_hD.png" alt="swing-D" height="160" width="750">
+     
+    </div>
   <body>
 
 <!-- optional banner image -->
