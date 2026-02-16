@@ -272,7 +272,7 @@ footer {
 .profile-photo {
   display: block;
   margin-top: 15px;
-  width: 350px;        /* adjust size */
+  width: 300px;        /* adjust size */
   height: auto;
   border-radius: 6px;  /* use 50% for circle */
   border: 1px solid #e5e5e5;
