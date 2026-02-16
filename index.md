@@ -1,6 +1,6 @@
 ---
 layout: bio-sidebar
-title: "Qi Liu"
+title: Qi Liu
 ---
 
 <img src="/images/kuriwaki_swing-split_hD.png" alt="banner" style="width:100%; height:auto;">
