@@ -1,6 +1,6 @@
 ---
 layout: bio-sidebar
-title: "Shiro Kuriwaki"
+title: "Qi Liu"
 ---
 
 <div class="wrapper">
