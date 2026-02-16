@@ -269,11 +269,48 @@ footer {
   }
 }
 
+/* Header spacing and polish */
+.site-header {
+  text-align: left;   /* change to center if preferred */
+  padding-bottom: 20px;
+}
+
+/* Name */
+.site-header h1 {
+  margin-bottom: 8px;
+  font-weight: 500;
+}
+
+/* Affiliation */
+.affiliation {
+  margin-bottom: 15px;
+  line-height: 1.4;
+  color: #555;
+}
+
+/* Profile photo */
 .profile-photo {
   display: block;
-  margin-top: 15px;
-  width: 200px;        /* adjust size */
+  width: 170px;
   height: auto;
-  border-radius: 6px;  /* use 50% for circle */
+  border-radius: 6px;
+  margin: 10px 0 18px 0;
   border: 1px solid #e5e5e5;
 }
+
+/* Email */
+.contact {
+  margin-bottom: 6px;
+}
+
+/* CV link */
+.cv-link a {
+  font-weight: 500;
+}
+
+/* Slight hover polish */
+.cv-link a:hover,
+.contact a:hover {
+  text-decoration: underline;
+}
+
